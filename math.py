@@ -6,4 +6,4 @@ def add(x, y):
 
 # Jane Doe, my imaginary team member, needs to implement this
 def multiply(x, y):
-  return None
+  return x * y
