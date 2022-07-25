@@ -2,7 +2,7 @@
 def add(x, y):
   if type(x) == int and type(y) == int:
     return x + y
-  return 'Nope, both inputs must be integers!'
+  return None
 
 # Jane Doe, my imaginary team member, needs to implement this
 def multiply(x, y):
